@@ -6,10 +6,10 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            Animal.Dog dog = new Animal.Dog();
+            Dog dog = new Dog();
             dog.NumberOfLegs();
             dog.MakeSound();
-            Animal.Bird bird = new Animal.Bird();
+            Bird bird = new Bird();
             bird.NumberOfLegs();
             bird.MakeSound();
             // Console.ReadLine();
@@ -17,8 +17,8 @@ namespace Classes
 
         public class Animal
         {
-            private int numberOfLegs;
-            private string sound;
+            protected int numberOfLegs;
+            protected string sound;
 
             public void NumberOfLegs()
             {
@@ -30,11 +30,12 @@ namespace Classes
                 Console.WriteLine(sound);
             }
 
-            public Animal()
+            protected Animal()
             {
                 Console.WriteLine("{0} has been created.", this.GetType().Name);
             }
-            public class Dog : Animal
+        }
+        public class Dog : Animal
             {
                 public Dog()
                 {
@@ -51,6 +52,5 @@ namespace Classes
                     sound = "Peep, peep.";
                 }
             }
-        }
     }
 }
