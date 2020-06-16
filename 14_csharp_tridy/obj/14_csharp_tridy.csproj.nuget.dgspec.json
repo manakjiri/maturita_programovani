@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj": {}
+    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_csharp_tridy\\14_csharp_tridy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj": {
+    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_csharp_tridy\\14_csharp_tridy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj",
+        "projectUniqueName": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_csharp_tridy\\14_csharp_tridy.csproj",
         "projectName": "14_csharp_tridy",
-        "projectPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj",
+        "projectPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_csharp_tridy\\14_csharp_tridy.csproj",
         "packagesPath": "C:\\Users\\atkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\obj\\",
+        "outputPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_csharp_tridy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
