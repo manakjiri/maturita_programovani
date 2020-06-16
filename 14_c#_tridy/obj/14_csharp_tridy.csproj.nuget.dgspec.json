@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj": {}
+    "/home/dev/_my/School/GUH/Programování/maturita/14_c#_tridy/14_csharp_tridy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj": {
+    "/home/dev/_my/School/GUH/Programování/maturita/14_c#_tridy/14_csharp_tridy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj",
+        "projectUniqueName": "/home/dev/_my/School/GUH/Programování/maturita/14_c#_tridy/14_csharp_tridy.csproj",
         "projectName": "14_csharp_tridy",
-        "projectPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\14_csharp_tridy.csproj",
-        "packagesPath": "C:\\Users\\atkar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\atkar\\Documents\\Škola\\Programování\\Maturita\\14_c#_tridy\\obj\\",
+        "projectPath": "/home/dev/_my/School/GUH/Programování/maturita/14_c#_tridy/14_csharp_tridy.csproj",
+        "packagesPath": "/home/dev/.nuget/packages/",
+        "outputPath": "/home/dev/_my/School/GUH/Programování/maturita/14_c#_tridy/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\atkar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/dev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -57,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }
