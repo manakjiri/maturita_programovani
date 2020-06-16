@@ -6,3 +6,6 @@ Nejoptimálnější porovnávací algoritmy mají složitost n x log(n), u menš
 
 Vlastnosti: stabilita, přirozenost
 """
+
+
+
