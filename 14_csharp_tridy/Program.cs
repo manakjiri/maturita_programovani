@@ -36,21 +36,21 @@ namespace Classes
             }
         }
         public class Dog : Animal
+        {
+            public Dog()
             {
-                public Dog()
-                {
-                    numberOfLegs = 4;
-                    sound = "Woof! Woof!";
-                }
+                numberOfLegs = 4;
+                sound = "Woof! Woof!";
             }
+        }
 
-            public class Bird : Animal
+        public class Bird : Animal
+        {
+            public Bird()
             {
-                public Bird()
-                {
-                    numberOfLegs = 2;
-                    sound = "Peep, peep.";
-                }
+                numberOfLegs = 2;
+                sound = "Peep, peep.";
             }
+        }
     }
 }
