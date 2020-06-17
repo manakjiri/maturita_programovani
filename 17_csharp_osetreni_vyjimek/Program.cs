@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _15_csharp_datove_typy
+namespace _17_csharp_osetreni_vyjimek
 {
     class Program
     {
