@@ -14,4 +14,4 @@ for i in range(10):
 # přeskočením například, nebo použitím while loopu
 # for loop je dělaný na procházení seznamů
 
-
+# to snad zvladame
