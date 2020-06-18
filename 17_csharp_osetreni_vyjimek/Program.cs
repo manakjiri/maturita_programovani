@@ -29,7 +29,7 @@ namespace _17_csharp_osetreni_vyjimek
             }
             catch (System.OutOfMemoryException)
             {
-                Console.WriteLine("Kupte více pamětí.");
+                Console.WriteLine("Sežeňte více pamětí.");
             }
             finally
             {
