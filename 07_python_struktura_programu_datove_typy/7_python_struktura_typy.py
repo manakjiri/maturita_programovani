@@ -9,3 +9,6 @@ Funkce nad číselnými typy – round(), abs(), max(), min()
 Modul math – math.trunc(), math.floor()
 Nový soubor – program Papoušek, Faktoriál
 """
+
+# snad se mi ani nechce, zvladnes na miste si myslim
+
