@@ -47,7 +47,3 @@ def Eukliduv(u, w):
     return u
 
 print(Eukliduv(300, 100))
-
-def MyAlgorithm():
-    print("I love my life.")
-    print("Changes have been made")
