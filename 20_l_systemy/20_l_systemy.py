@@ -32,7 +32,6 @@ def Gosper(pen, generation, length):
     pen.pensize(3)
     pen.setpos(0, -150)
     pen.pd()
-    color = 0
     Gosper_L(pen, generation, length)
 
 def Gosper_L(pen, generation, length):
@@ -88,7 +87,7 @@ if __name__ == "__main__":
     pen = turtle.Turtle()
     pen.speed(0)
     #Snowflake(pen, 4, 500)
-    Gosper(pen, 5, 10)
+    Gosper(pen, 4, 10)
     turtle.mainloop()
 
 
