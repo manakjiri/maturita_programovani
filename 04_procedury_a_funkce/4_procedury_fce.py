@@ -3,6 +3,21 @@ Definice: procedura nebo funkce nazveme skupinu příkazů, které tvoří logic
 
 Slouží ke zjednodušení kódu – podprogram se definuje jen jednou a následně se v programu už jen deklaruje jeho název (odkazuje se na něj) 
 
+Např. chceme získat n-tou mocninu x, nebudeme všude psát x * x * x * ... ale
+vytvoříme si funkci:
+
+int pow(int x, int n)
+{
+    int ret = 1;
+
+    while (n--)
+        ret *= x;
+
+    return ret;
+}
+
+a poté ji budeme volat kdykoliv potřebujeme nějakou tuto mocninu.
+
 Charakteristika procedury, charakteristika funkce Parametry a způsob jejich volání 
 
 Názorné je C:
